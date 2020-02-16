@@ -1,3 +1,10 @@
+# GODOT IGNORE
+.import/
+*.import
+export.cfg
+export_presets.cfg
+.mono/
+
 # Prerequisites
 *.d
 
